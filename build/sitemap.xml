@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  
+  <!-- Homepage - Highest Priority -->
+  <url>
+    <loc>https://intechlogix.com/</loc>
+    <lastmod>2025-01-13T10:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/about-image.jpg</image:loc>
+      <image:title>Intech Logix - Digital Marketing & Web Development Services</image:title>
+      <image:caption>Professional digital marketing and web development team</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Page - Company Information -->
+  <url>
+    <loc>https://intechlogix.com/about</loc>
+    <lastmod>2025-01-13T09:30:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/about-image.jpg</image:loc>
+      <image:title>About Intech Logix - Expert Digital Marketing Team</image:title>
+      <image:caption>Meet our team of digital marketing and development experts</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/kamran_afzal.webp</image:loc>
+      <image:title>Kamran Afzal - CEO & Founder</image:title>
+      <image:caption>Paid Marketing Specialist driving $10M+ revenue</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Contact Page - High Conversion Priority -->
+  <url>
+    <loc>https://intechlogix.com/contact</loc>
+    <lastmod>2025-01-13T09:45:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Testimonials Page - Social Proof -->
+  <url>
+    <loc>https://intechlogix.com/testimonials</loc>
+    <lastmod>2025-01-13T09:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/success-story.jpg</image:loc>
+      <image:title>Client Success Stories & Testimonials</image:title>
+      <image:caption>Real results from our satisfied clients</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Service Pages - Core Revenue Pages -->
+  
+  <!-- SEO Services - Top Priority Service -->
+  <url>
+    <loc>https://intechlogix.com/services/seo</loc>
+    <lastmod>2025-01-13T10:15:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/seo.jpg</image:loc>
+      <image:title>Expert SEO Services - Dominate Search Results</image:title>
+      <image:caption>Professional SEO services with proven 300% traffic increase</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/seo-results.jpg</image:loc>
+      <image:title>SEO Results Dashboard</image:title>
+      <image:caption>Real SEO results showing traffic growth and rankings</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Digital Marketing Services -->
+  <url>
+    <loc>https://intechlogix.com/services/digital-marketing</loc>
+    <lastmod>2025-01-13T10:10:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/digital-marketing.jpg</image:loc>
+      <image:title>Digital Marketing Services - Social Media, PPC, Email</image:title>
+      <image:caption>Comprehensive digital marketing with measurable ROI</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Web Design Services -->
+  <url>
+    <loc>https://intechlogix.com/services/web-design</loc>
+    <lastmod>2025-01-13T10:05:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/web-design.webp</image:loc>
+      <image:title>Modern Web Design Services - Responsive & User-Friendly</image:title>
+      <image:caption>Professional web design focused on user experience and conversions</image:caption>
+    </image:image>
+  </url>
+
+  <!-- App Development Services -->
+  <url>
+    <loc>https://intechlogix.com/services/app-development</loc>
+    <lastmod>2025-01-13T09:55:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/app-development.webp</image:loc>
+      <image:title>Mobile App Development - iOS, Android & Cross-Platform</image:title>
+      <image:caption>Professional mobile app development for iOS and Android</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/app_development_2.avif</image:loc>
+      <image:title>App Development Process</image:title>
+      <image:caption>Our systematic approach to mobile app development</image:caption>
+    </image:image>
+  </url>
+
+  <!-- WordPress Development -->
+  <url>
+    <loc>https://intechlogix.com/services/wordpress</loc>
+    <lastmod>2025-01-13T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/wordpress.jpg</image:loc>
+      <image:title>WordPress Development Services - Custom Themes & Plugins</image:title>
+      <image:caption>Professional WordPress development and optimization</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/wordpress_2.jpg</image:loc>
+      <image:title>WordPress Custom Development</image:title>
+      <image:caption>Advanced WordPress customization and development</image:caption>
+    </image:image>
+  </url>
+
+  <!-- HubSpot Services -->
+  <url>
+    <loc>https://intechlogix.com/services/hubspot</loc>
+    <lastmod>2025-01-13T09:50:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/hubspot.jpg</image:loc>
+      <image:title>HubSpot CRM Setup & Marketing Automation</image:title>
+      <image:caption>Professional HubSpot implementation and optimization</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Video Editing Services -->
+  <url>
+    <loc>https://intechlogix.com/services/video-editing</loc>
+    <lastmod>2025-01-13T09:40:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/video-editing.webp</image:loc>
+      <image:title>Professional Video Editing Services - Motion Graphics</image:title>
+      <image:caption>Expert video editing and motion graphics services</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://intechlogix.com/images/video-editing-2.avif</image:loc>
+      <image:title>Video Production & Editing</image:title>
+      <image:caption>Professional video production and post-production services</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Legal Pages - Required but Lower Priority -->
+  <url>
+    <loc>https://intechlogix.com/privacy</loc>
+    <lastmod>2025-01-13T08:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://intechlogix.com/terms</loc>
+    <lastmod>2025-01-13T08:00:00+00:00</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Case Study / Portfolio Pages (if they exist) -->
+  <!-- These would be added when case study pages are created -->
+
+</urlset>
