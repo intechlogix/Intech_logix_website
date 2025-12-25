@@ -276,7 +276,7 @@ const Footer = () => {
                   <MapPin className="h-4 w-4 text-primary-400" />
                 </div>
                 <span className="text-secondary-300 group-hover:text-primary-400 transition-colors duration-300">
-                  London, United Kingdom
+                  Florida, United States of America
                 </span>
               </motion.div>
             </div>
