@@ -172,7 +172,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Us",
-      info: "London, United Kingdom",
+      info: "Florid, United States of America",
       description: "Come say hello at our office"
     },
     {
@@ -240,8 +240,8 @@ const Contact = () => {
           ],
           "address": {
             "@type": "PostalAddress",
-            "addressLocality": "London",
-            "addressCountry": "GB"
+            "addressLocality": "Florida",
+            "addressCountry": "US"
           },
           "geo": {
             "@type": "GeoCoordinates",
