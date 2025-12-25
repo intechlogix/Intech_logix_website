@@ -1,0 +1,29 @@
+{
+  "short_name": "Intech Logix",
+  "name": "Intech Logix - Digital Marketing & Web Development",
+  "description": "Transform your business with comprehensive digital marketing, SEO, web development, and automation services.",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/images/logo-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/logo-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3b82f6",
+  "background_color": "#ffffff",
+  "categories": ["business", "productivity", "marketing"],
+  "lang": "en",
+  "orientation": "portrait-primary"
+}
